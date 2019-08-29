@@ -1,0 +1,10 @@
+C:\Users\Luis\Documents\Projects\fstcpserver\App\bin\Debug\netcoreapp2.1\App.deps.json
+C:\Users\Luis\Documents\Projects\fstcpserver\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.json
+C:\Users\Luis\Documents\Projects\fstcpserver\App\bin\Debug\netcoreapp2.1\App.runtimeconfig.dev.json
+C:\Users\Luis\Documents\Projects\fstcpserver\App\bin\Debug\netcoreapp2.1\App.dll
+C:\Users\Luis\Documents\Projects\fstcpserver\App\bin\Debug\netcoreapp2.1\App.pdb
+C:\Users\Luis\Documents\Projects\fstcpserver\App\obj\Debug\netcoreapp2.1\App.fsprojAssemblyReference.cache
+C:\Users\Luis\Documents\Projects\fstcpserver\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Projects\fstcpserver\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.fs
+C:\Users\Luis\Documents\Projects\fstcpserver\App\obj\Debug\netcoreapp2.1\App.dll
+C:\Users\Luis\Documents\Projects\fstcpserver\App\obj\Debug\netcoreapp2.1\App.pdb
