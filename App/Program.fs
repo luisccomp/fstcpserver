@@ -1,4 +1,6 @@
-﻿open System
+﻿module Program
+
+open System
 open System.Net
 open System.Net.Sockets
 open System.Text
