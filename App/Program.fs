@@ -51,6 +51,7 @@ let main args =
                     (* Enviando de volta uma resposta. *)
                     stream.Write(res, 0, res.Length)
                     Console.WriteLine("Enviado: {0}", response)
+                done
 
         with :? SocketException as e ->
             Console.WriteLine("Socket Exception: {0}", e)
